@@ -1,0 +1,4 @@
+tileableHeightMap.png               Download from https://opengameart.org/content/seamless-looping-waves-heightmaps under CC0
+default.png                         Packaged with RAGE
+hexagons.jpeg                       Packaged with RAGE
+sand.jpg                            Downloaded from https://cc0textures.com/view?id=Ground029 under CC0
